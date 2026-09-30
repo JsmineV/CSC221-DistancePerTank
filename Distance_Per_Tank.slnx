@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Distance_Per_Tank/Distance_Per_Tank.vcxproj" />
+</Solution>
